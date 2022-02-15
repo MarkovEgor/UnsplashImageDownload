@@ -6,7 +6,6 @@
 //
 
 
-
 import UIKit
 import SDWebImage
 
@@ -46,8 +45,7 @@ class PhotoView: UIViewController {
     }()
     
     
-    
-    
+   
     var unsplashPhoto: UnsplashPhooto! {
         didSet {
             let photoUrl = unsplashPhoto.urls["thumb"]

@@ -2,7 +2,7 @@
 //  ImageCollectionViewController.swift
 //  UnsplashImageDownload
 //
-//  Created by Egor Markov on 8/30/21.
+//  Created by Egor Markov on 2/15/22.
 //
 
 import UIKit
